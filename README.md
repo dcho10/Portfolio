@@ -23,7 +23,7 @@ I decided to give software engineering a try because of the creativity it offers
 
 ## Projects and Skills
 
-Throughout the Coding Bootcamp, I have acquired several skills including front-end (HTML, CSS, JavaScript, React), and back-end (SQL, NoSQL, Express). Other skills include Node, and Express.
+Throughout the Coding Bootcamp, I have acquired several skills including front-end (HTML, CSS, JavaScript, React), and back-end (SQL, NoSQL, Express). Other skills include Node.js, and Express.
   
 ## Table of Contents
 
