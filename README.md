@@ -4,10 +4,10 @@ https://github.com/dcho10/Portfolio
 
 # Images
 
-## About: ![image](https://github.com/dcho10/Portfolio/assets/153252185/421fbe64-4ae9-4c9a-b1de-0a926b0193ed)
-## Projects: ![image](https://github.com/dcho10/Portfolio/assets/153252185/0c2dc0db-3e8e-44ee-9a6e-2db715f9a2f2)
-## Resume: ![image](https://github.com/dcho10/Portfolio/assets/153252185/b4cf4ee2-76ea-4b7e-904d-6d7dca55411d)
-## Contact: ![image](https://github.com/dcho10/Portfolio/assets/153252185/3a090171-2298-4526-96e4-45ce6dd86588)
+## About: ![image](https://github.com/dcho10/Portfolio/assets/153252185/6027d38b-7a17-40b8-8ce7-e1baabf76b65)
+## Projects: ![image](https://github.com/dcho10/Portfolio/assets/153252185/6f9b63ca-3e6c-4bff-954a-bc08b22225f8)
+## Resume: ![image](https://github.com/dcho10/Portfolio/assets/153252185/f0ca4d7e-b064-4e4d-a8c2-2ee83062b415)
+## Contact: ![image](https://github.com/dcho10/Portfolio/assets/153252185/a58cfcf9-6278-4aad-bec6-3a7ae8164c31)
 
 ## Introduction
 
