@@ -1,6 +1,3 @@
-import './index.css'
-
-
 export default function Skills({ skills }) {
     return (
         <section className="skills">

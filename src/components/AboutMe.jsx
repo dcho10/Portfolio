@@ -1,5 +1,3 @@
-import './index.css'
-
 export default function AboutMe({ about }) {
     return (
         <section className="about">
