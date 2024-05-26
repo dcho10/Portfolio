@@ -1,6 +1,7 @@
 import projects from "../data/projects.json";
 
 export default function ProjectCard() {
+
     const project = {projects}
 
     return (

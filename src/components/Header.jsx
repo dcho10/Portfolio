@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import Navbar from "./UI/Navbar"
+import './index.css'
 
 export default function Header() {
     return (
